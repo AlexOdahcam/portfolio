@@ -2,6 +2,8 @@
 
 Olá, Bem vindo ao meu projeto de portfólio.
 
+![image](https://portfolio-akkordbh4-alexodahcam.vercel.app/)
+
 ## Ferramentas utilizadas:
 
 * HTML
