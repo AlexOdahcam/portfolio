@@ -136,7 +136,11 @@ body {
 
     .cabecalho__menu {
         justify-content: space-evenly;
-        gap: 4rem;
+        gap: 3rem;
+    }
+
+    .cabecalho__menu__link {
+        font-size: 1.25em;
     }
     
     .apresentacao {
@@ -146,6 +150,10 @@ body {
 
     .apresentacao__conteudo {
         width: auto;
+    }
+
+    .apresentacao__links__navegacao {
+        padding: 24px;
     }
 
     .rodape {
